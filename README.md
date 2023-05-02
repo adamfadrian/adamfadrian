@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 </div>
 ### GitHub Stats ⭐
-<div align="left"><img src="https://github-stats-tkiw.vercel.app/api?username=Findryankp&show_icons=true&count_private=true" align="center" /></div> 
+<div align="left"><img src="https://github-stats-tkiw.vercel.app/api?username=adamfadrian&show_icons=true&count_private=true" align="center" /></div> 
