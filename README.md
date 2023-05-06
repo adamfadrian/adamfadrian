@@ -3,7 +3,15 @@
 
 <br />
 <img src="https://komarev.com/ghpvc/?username=adamfadrian&&style=flat-square" align="center" />
+<h2 align="center" ><img src="https://media.giphy.com/media/4mdWQOVTp2LutMqJKV/giphy.gif" witdh="50" height="50"/> <b> More About Me </b></h2>
+</br>
+<h5 align="left">Frontend developer with passion for technology, which i have pursued through completing IT school and taking courses. Interested in creative web design with visually appealing and easily understood by wide audience. Excelled in HTML, CSS, and Javascript as well as latest technologies such us React, Tailwind, and Bootstrap. Currently looking for technology company where I could create meaningful projects and benefit others.</h5>
 
+- 🌱 I’m currently learning <b>Typescript</b> and <b>React</b> 
+- 👯 Available for work and collaborations
+- 💬 Ask me about anything tech related, I am happy to help [here](faizaltriasaa@gmail.com)
+- ⚡ Fun fact I am funny (maybe) 😅
+</br>
 <div align="left"> 
  
 
