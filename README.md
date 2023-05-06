@@ -1,8 +1,5 @@
-### <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hellow+%F0%9F%91%8B%2C+I'm+Adam+Fadrian" alt="Typing SVG" /></a></h1>
-### <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Front-End+Developer" alt="Typing SVG" /></a></h1>
-
-<br />
-
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hellow+%F0%9F%91%8B%2C+I'm+Adam+Fadrian" alt="Typing SVG" /></a></h1>
+ <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Front-End+Developer" alt="Typing SVG" /></a></h1>
 <h2 align="center" ><img src="https://media.giphy.com/media/4mdWQOVTp2LutMqJKV/giphy.gif" witdh="50" height="50"/> <b> More About Me </b></h2>
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=adamfadrian&&style=flat-square" align="center" /></h2>
 <p align="center">
