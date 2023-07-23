@@ -1,11 +1,12 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hellow+%F0%9F%91%8B%2C+I'm+Adam+Fadrian" alt="Typing SVG" /></a></h1>
+
  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Front-End+Developer" alt="Typing SVG" /></a></h1>
 <h2 align="center" ><img src="https://media.giphy.com/media/4mdWQOVTp2LutMqJKV/giphy.gif" witdh="50" height="50"/> <b> More About Me </b></h2>
-<h2 align="center"><img src="https://komarev.com/ghpvc/?username=adamfadrian&&style=flat-square" align="center" /></h2>
+
 <p align="center">
 <a href="https://linkedin.com/in/adam-fadrian-311000227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adamfadrian" height="30" width="40" /></a>
 <a href="https://instagram.com/adamfadrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adamfadrian" height="30" width="40" /></a>
 </p>
+<h2 align="center"><img src="https://komarev.com/ghpvc/?username=adamfadrian&&style=flat-square" align="center" /></h2>
 </br>
 <h5 align="left">I began learning HTML and JavaScript on my own through FreeCodeCamp in 2019. However, I faced many obstacles along the way and found myself getting stuck frequently. Despite these challenges, I continued to learn through self-teaching and practice until I joined Alterra Academy's bootcamp. where I learned React and TypeScript in addition to HTML and JavaScript. During my time there, my skills grew rapidly, and I worked on several individual and collaborative projects that further honed my abilities. Currently, I am seeking a Frontend Engineer position with a company where I can utilize my skills and continue to develop both professionally and personally.</h5>
 
