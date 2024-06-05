@@ -4,7 +4,6 @@
 
 <p align="center">
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=adamfadrian&&style=flat-square" align="center" /></h2>
-</br>
 <h5 align="left">I began learning HTML and JavaScript on my own through FreeCodeCamp in 2019. However, I faced many obstacles along the way and found myself getting stuck frequently. Despite these challenges, I continued to learn through self-teaching and practice until I joined Alterra Academy's bootcamp. where I learned React and TypeScript in addition to HTML and JavaScript. During my time there, my skills grew rapidly, and I worked on several individual and collaborative projects that further honed my abilities. Currently, I am seeking a Frontend Engineer position with a company where I can utilize my skills and continue to develop both professionally and personally.</h5>
 
 - 🌱 I’m currently learning <b>Typescript</b>, <b>React</b>, <b>NextJS</b> , <b>VueJS</b> and <b>Framer-Motion</b> 
